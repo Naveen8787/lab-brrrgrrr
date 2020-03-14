@@ -130,3 +130,4 @@ document.querySelector(".btn-lettuce").onclick = function () {
 //Judgement 1
 //In the p element having price-details as the class, display the calculated
 //price based on ingredients
+© 2020 GitHub, Inc.
